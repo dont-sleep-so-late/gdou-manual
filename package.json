@@ -1,0 +1,17 @@
+{
+  "name": "gdou-manual",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "vitepress": "^1.0.1",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@vue/tsconfig": "^0.5.1"
+  }
+}
